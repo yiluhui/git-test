@@ -1,0 +1,3 @@
+Setting -> Appearance&Behavior -> Appearance ->Override default fonts by (not recommended),
+
+勾选前面的框，下面的一行（Name和Size）被点亮，Name中调整字体风格，Size中调整大小。
