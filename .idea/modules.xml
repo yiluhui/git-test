@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/git_atguigu/git_atguigu.iml" filepath="$PROJECT_DIR$/git_atguigu/git_atguigu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-test0/git-test0.iml" filepath="$PROJECT_DIR$/git-test0/git-test0.iml" />
     </modules>
   </component>
 </project>
